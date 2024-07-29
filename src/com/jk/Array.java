@@ -1,3 +1,4 @@
+package com.jk;
 import java.util.Scanner;
 
 public class Array {
